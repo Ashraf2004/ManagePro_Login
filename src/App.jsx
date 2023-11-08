@@ -61,7 +61,7 @@ function App() {
             <p>{loginError}</p>
           )}
           <p>You agree to our terms and policies</p>
-          <button className='btn btn-default border w-100 bg-light rounded-0 text-decoration-none'>Create Account</button>
+          <button className='btn btn-default border w-100 bg-light rounded-0 text-decoration-none'><a href="https://manage-pro-black.vercel.app/#home">Create Account</a></button>
         </form>
       </div>
     </div>
